@@ -1,0 +1,10 @@
+global.Temp2=0;
+global.Temp3=0;
+global.Temp5=0;
+global.sign_out_quantity="";
+global.temp_name="";
+global.name="";
+global.cost_centre="";
+global.temp_cost_centre="";
+global.cost_centre_label="";
+room_goto(Room91);

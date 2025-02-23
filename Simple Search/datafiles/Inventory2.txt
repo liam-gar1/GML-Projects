@@ -1,0 +1,3 @@
+Bin Location	Part Number	Description	Quantity
+09P58	000001	Gloves	2
+19P19	000002	Winter Gloves	2
