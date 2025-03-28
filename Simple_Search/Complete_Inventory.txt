@@ -1,0 +1,77 @@
+Bin Location\tPart Number\tPart Description\tQuantity\tUnits
+01A01\t000001\t74HC595N 8-Bit Shift Register\t0\tEA
+01A02\t000002\t4N35 Optocoupler\t0\tEA
+01A03\t000003\tSN74HC00N 2 Input NAND Gates\t0\tEA
+01A04\t000004\tSN74HC04N Inverting Buffers\t0\tEA
+01A05\t000005\tSN74HC08n 2 Input AND Gates\t0\tEA
+01B01\t000006\tSN74HC32N 2 Input OR Gates\t0\tEA
+01B02\t000007\tSN74HC86N 2 Input Exclusive OR Gates\t0\tEA
+01B03\t000008\tSN74HCII2N Dual JK Flip-Flop\t0\tEA
+01B04\t000009\t74HCO2AP Quad 2-Input NOR Gates\t0\tEA
+01B05\t000010\tSN744HC16IN 4-Bit Synchronous Binary Counter\t0\tEA
+01C01\t000011\tLM324AN Quad Improved Offset Operational Amplifier\t0\tEA
+01C02\t000012\tLM339N Quad Differential Comparator\t0\tEA
+01C03\t000013\tLM741CN Operational Amplifiers\t0\tEA
+01C04\t000014\tTLC555CP Low-Power Timer\t0\tEA
+01C05\t000015\tMX7523JN Digital-to-Analog Converter\t0\tEA
+01C06\t000016\tCD54HC4511 BCD-to-7 segment latch/decoder\t0\tEA
+01D01\t000017\tLM311P\t0\tEA
+01D02\t000018\tLM318N\t0\tEA
+01D03\t000019\tLM358P\t0\tEA
+01D04\t000020\t0.1ohm Resistors\t0\tEA
+01D05\t000021\t10ohm Resistors\t0\tEA
+01D06\t000022\t20ohm Resistors\t0\tEA
+01D07\t000023\t47ohm Resistors\t0\tEA
+01E01\t000024\t100ohm Resistors\t0\tEA
+01E02\t000025\t220ohm Resistors\t0\tEA
+01E03\t000026\t330ohm Resistors\t0\tEA
+01E04\t000027\t470ohm Resistors\t0\tEA
+01E05\t000028\t1kOhm Resistors\t0\tEA
+01F01\t000029\t2kOhm Resistors\t0\tEA
+01F02\t000030\t4.7kOhm Resistors\t0\tEA
+01F03\t000031\t5kOhm Resistors\t0\tEA
+01F04\t000032\t10kOhm Resistors\t0\tEA
+01F05\t000033\t22kOhm Resistors\t0\tEA
+01G01\t000034\t47kO Resistors\t0\tEA
+01G02\t000035\t100kOhm Resistors\t5\tEA
+01G03\t000036\t220kOhm Resistors\t0\tEA
+01G04\t000037\t470kOhm Resistors\t0\tEA
+01G05\t000038\t1MOhm Resistors\t0\tEA
+01H01\t000039\t0.1uF 50V Capacitors\t0\tEA
+01H02\t000040\t1uF 50V Capacitors\t0\tEA
+01H03\t000041\t10uF 25V Capacitors\t0\tEA
+01H04\t000042\t10uF 50V Capacitors\t0\tEA
+01H05\t000043\t100uF 16V Capacitors\t0\tEA
+01H06\t000044\t100uF 25V Capacitors\t0\tEA
+01H07\t000045\t100uF 50V Capacitors\t0\tEA
+01H08\t000046\t1000uF 16V Capacitors\t0\tEA
+01H09\t000047\t0.22uF 50V Capacitors\t0\tEA
+01H10\t000048\t22uF 50V Capacitors\t0\tEA
+01H11\t000049\t22uF 16V Capacitors\t0\tEA
+01H12\t000050\t22uF 25V Capacitors\t0\tEA
+01H13\t000051\t220uF 10V Capacitors\t0\tEA
+01H14\t000052\t220uF 25V Capacitors\t0\tEA
+01I01\t000053\t33uF 16V Capacitors\t0\tEA
+01I02\t000054\t330uF 25V Capacitors\t0\tEA
+01I03\t000055\t4.7uF 50V Capacitors\t0\tEA
+01I04\t000056\t47uF 10V Capacitors\t0\tEA
+01I05\t000057\t47uF 25V Capacitors\t0\tEA
+01I06\t000058\t47uF 50V Capacitors\t0\tEA
+01I07\t000059\t470uF 10V Capacitors\t0\tEA
+01I08\t000060\t470uF 16V Capacitors\t0\tEA
+01I09\t000061\t680uF Capacitors\t0\tEA
+01J01\t000063\tUnlabeled Ceramic Capacitors\t0\tEA
+01J02\t000064\t10e4 pF Ceramic Capacitors\t0\tEA
+01J03\t000065\t22pF Ceramic Capacitors\t0\tEA
+01J04\t000066\tNPN Transistors PN222\t0\tEA
+01J05\t000067\tDiodes\t0\tEA
+01J06\t000068\t40 Pin Headers\t0\tEA
+01J07\t000069\tLEDs / 7SDs\t0\tEA
+01K01\t000070\tButtons\t0\tEA
+01K02\t000071\tBuzzers\t0\tEA
+01K03\t000072\tPhotoresistors\t0\tEA
+01K04\t000073\tPotentiometers\t0\tEA
+01K05\t000074\t680O Resistors\t0\tEA
+01L01\t000075\tJumper Wires A\t0\tEA
+01L02\t000076\tJumper Wires B\t0\tEA
+01L03\t000077\tJumper Wires C\t0\tEA
